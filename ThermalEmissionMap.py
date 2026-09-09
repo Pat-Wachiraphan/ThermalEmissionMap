@@ -10,7 +10,7 @@ figsize_2column_wide = (7.1,5)
 figsize_2column_long = (7.1,9)
 figsize_1column = (3.35,5)
 
-class ThermalEmission:
+class ThermalEmissionMap:
     """
     A Python class to work with 2D thermal emission data in HEALPix format. 
     This class provides methods to load, manipulate, and visualize thermal emission data from planetary bodies.
